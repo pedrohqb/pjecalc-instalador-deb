@@ -10,7 +10,7 @@ DESCRIPTION_SHORT="Instalador do PJe-Calc e ferramentas de apoio"
 # Descrição longa (pode ter várias linhas)
 DESCRIPTION_LONG="Este pacote contém scripts de instalação, atalhos e documentação para o PJe-Calc e ferramentas relacionadas, como limpeza de navegador e backup."
 # Mantenedor do pacote
-MAINTAINER="Pedro Henrique Quitete Barreto <tuxslack@gmail.com>"
+MAINTAINER="Pedro Henrique Quitete Barreto <pedrohqb@gmail.com>"
 # Arquitetura
 ARCHITECTURE="amd64"
 # Dependências

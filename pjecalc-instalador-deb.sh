@@ -49,6 +49,7 @@ echo "Preparando a estrutura do pacote..."
 rm -f "${DEB_ROOT_DIR}/LICENSE"
 rm -f "${DEB_ROOT_DIR}/README.md"
 rm -rf "${DEB_ROOT_DIR}/.git"
+rm -rf "${DEB_ROOT_DIR}/usr/share/pixmaps/"
 
 # Define permissões de execução para os scripts em /usr/local/bin
 echo "Definindo permissões de execução para os scripts em /usr/local/bin..."

@@ -18,7 +18,7 @@ DEPENDS="zulu-11, p7zip, yad, fonts-noto-color-emoji, gnome-icon-theme, libnotif
 
 # --- Diretórios ---
 # Repositório Git a ser clonado
-REPO_URL="https://github.com/tuxslack/pjecalc-instalador.git"
+REPO_URL="https://github.com/pedrohqb/pjecalc-instalador.git"
 # Diretório de trabalho para a construção
 BUILD_DIR="${PACKAGE_NAME}-${PACKAGE_VERSION}"
 # Diretório onde os arquivos do pacote serão organizados

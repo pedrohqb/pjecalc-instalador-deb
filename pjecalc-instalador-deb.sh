@@ -4,7 +4,7 @@
 # Nome do pacote (tudo em letras minúsculas)
 PACKAGE_NAME="pjecalc-instalador"
 # Versão do pacote.
-PACKAGE_VERSION="2.14.0-1"
+PACKAGE_VERSION="2.14.0-2"
 # Descrição curta do pacote
 DESCRIPTION_SHORT="Instalador do PJe-Calc e ferramentas de apoio"
 # Descrição longa (pode ter várias linhas)
